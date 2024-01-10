@@ -2,6 +2,7 @@
 ### Information
 **Group Name:** `HTTP-Academy`  
 **CMPUT 404 Project Name:** `SDIST`  
+**Project Description:** `Creating a simplified social platform like Diaspora/Activity Hub/Twitter, allowing cross-platform post sharing for a straightforward user experience.`  
 
 ### Links
 [Public URI](https://chimp-chat-1e0cca1cc8ce.herokuapp.com/). 
